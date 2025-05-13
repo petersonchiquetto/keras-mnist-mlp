@@ -75,9 +75,6 @@ Formato de y_train: (60000,)
 Acurácia no teste: 0.9785
 ````
 
-![Training Accuracy Plot](https://user-images.githubusercontent.com/your-image-link-here.png) <!-- Optional: insert your own plot -->
-
----
 
 ## 📦 Requirements
 
